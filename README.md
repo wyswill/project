@@ -10,7 +10,7 @@
 
 初始化项目：
 
-​	git clong https://github.com/wyswill/project.git
+​	git clone https://gitee.com/wyswill/project.git
 
 ​	把下载下的project拉到vscode里。
 
@@ -41,3 +41,32 @@
 这个图标![image-20190323120744524](assets/image-20190323120744524.png)
 
 这个是同步图标，如果本地有修改就提交到github，github有更改的话就更新自己的本地仓库Ï
+
+## 项目技术栈
+
+vue / vue-router / vuex / element-ui
+
+## 特别说明
+
+像素单位使用rem
+
+基本的fent-size是100px
+
+ ### 插件
+
+蓝湖ps插件
+
+![image-20190323131047060](assets/image-20190323131047060.png)
+
+确定
+
+## 图片存放
+
+统一放在 assets 文件夹里
+
+## ps 2019 下载地址
+
+链接：https://pan.baidu.com/s/1HNBKHQJI9r21oRoevoWk0Q 
+提取码：7vn1 
+复制这段内容后打开百度网盘手机App，操作更方便哦
+
